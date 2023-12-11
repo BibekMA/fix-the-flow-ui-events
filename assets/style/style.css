@@ -78,4 +78,12 @@ a:nth-of-type(12) {
   }
 }
 
-/* Jouw animaties */
+.frontend {
+  background-color:red;
+  transition: 0.5s;
+}
+
+
+
+
+
