@@ -32,10 +32,7 @@ a {
   font-weight: normal;
   text-decoration: none;
 }
-a:hover {
-  color: var(--primary);
-  border-color: var(--primary);
-}
+
 
 /* UI Event Classes */
 
@@ -79,7 +76,14 @@ a:nth-of-type(12) {
 }
 
 .frontend {
-  background-color:red;
+  background-color: #7ce7c9;
+  transition: 0.5s;
+  color: #050840;
+}
+
+.design{
+padding-left: 1em;
+padding-right: 1em;
   transition: 0.5s;
 }
 
