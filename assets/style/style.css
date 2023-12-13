@@ -75,19 +75,33 @@ a:nth-of-type(12) {
   }
 }
 
-.frontend {
+.btn1 {
   background-color: #7ce7c9;
   transition: 0.5s;
   color: #050840;
 }
 
-.design{
-padding-left: 1em;
-padding-right: 1em;
-  transition: 0.5s;
+.btn2{
+padding-left: 1.5em;
+padding-right: 1.5em;
+  transition: 0.35s;
 }
 
+.btn3{
+  transform: rotateX(360deg);
+  transition: 1s;
+}
 
+.btn4{
+  background-color: #7ce7c9;
+  transition: 0.5s;
+  color: #050840;
+}
 
+.btn5{
+  transform: rotateY(180deg);
+}
 
-
+.btn6{
+  color: rebeccapurple;
+}
